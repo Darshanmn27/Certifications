@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Darshan M N! 🚀</h1>  
-<h1  align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3E7DC7&width=650&lines=Welcome+to+my+GitHub+Profile!;+%7C+DSA+Enthusiast;Passionate+about+Problem+Solving+%26+Innovation;Let's+Connect!+🚀👋 Hi, I'm Darshan M N! 🚀" alt="Typing SVG" />
 
 
 <p align="center">
